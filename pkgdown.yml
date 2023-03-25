@@ -3,8 +3,5 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   simulatr_getting_started: simulatr_getting_started.html
-last_built: 2023-03-25T15:27Z
-urls:
-  reference: https://clarkliming.github.io/test/reference
-  article: https://clarkliming.github.io/test/articles
+last_built: 2023-03-25T15:33Z
 

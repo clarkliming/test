@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clarkliming.github.io/test/404.html</loc>
+    <loc>/404.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/LICENSE.html</loc>
+    <loc>/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/articles/index.html</loc>
+    <loc>/articles/index.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/articles/simulatr_getting_started.html</loc>
+    <loc>/articles/simulatr_getting_started.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/authors.html</loc>
+    <loc>/authors.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/index.html</loc>
+    <loc>/index.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/news/index.html</loc>
+    <loc>/news/index.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/reference/getSimulatedTwoArmMeans.html</loc>
+    <loc>/reference/getSimulatedTwoArmMeans.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/reference/index.html</loc>
+    <loc>/reference/index.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/reference/plot.SimulationResult.html</loc>
+    <loc>/reference/plot.SimulationResult.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/reference/print.SimulationResult.html</loc>
+    <loc>/reference/print.SimulationResult.html</loc>
   </url>
   <url>
-    <loc>https://clarkliming.github.io/test/reference/simulatr.html</loc>
+    <loc>/reference/simulatr.html</loc>
   </url>
 </urlset>
